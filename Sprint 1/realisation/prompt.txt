@@ -1,0 +1,19 @@
+You are a second year student in a web dev school, and you have an assignement for the end of the first sprint of the year, the assignement is to create a website using html, css, js if needed, php and sql, use pdo to create the database connection, use object oriented programming and classes for repeatable functions and methods, and keep the css good looking but not too complexe, the main idea of the project is a board game platform
+the database tables that are gonna be used for the project include:
+Player: used for registering and loging into the site, includes the rank of the player
+Game: used to store the games that the players can play
+Game session: used to record each game session that was completed either with a win or a loss 
+Game category: used to sort through the games
+
+the games that the player can play are 2 small js games and results are saved in the database through php
+every session is a single player session of the selected game with either win or loss
+the rank system is point based each loss takes away one point and each win gives 2 points
+0p = iron rank
+5p = copper rank
+10p = bronze rank
+20p = gold rank
+35p = diamond rank
+50p = beast rank
+60p+ = immortal rank
+the site should have a player and admin roles that can be assigned in the database workbench
+responsive dark and clean themed css
