@@ -1,0 +1,2 @@
+[{"id":1,"name":"Guess the Number","key":"guess","category_id":1,"description":"Find the secret number between 1 and 100 in 7 tries."},
+{"id":2,"name":"Tic Tac Toe","key":"tictactoe","category_id":2,"description":"Beat the computer. You play X."}]

@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "username": "Kazou",
+        "password": "$2y$12$Ypa1wgEMj732NlpTa.UE3eMD0.2fJSKV\/cLlB4tKgfqyuqoBsZBma",
+        "role": "admin",
+        "points": 0,
+        "rank": "iron",
+        "created_at": "2026-10-05T09:28:21+00:00"
+    }
+]
